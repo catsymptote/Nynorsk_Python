@@ -1,0 +1,61 @@
+# https://realpython.com/python-keywords/
+# All keywords can be found using: help("keywords") in Python.
+python, nynorsk-python
+
+# Ifs
+if, hvis
+elif, omikkjehvis
+else, ellers
+in, inni
+is, er
+
+# Boolean algebra
+not, ikkje
+and, og
+or, eller
+True, sanninga
+False, ikkesanninga
+
+# Loops
+while, mens
+for, forkvar
+continue, fortsett
+
+# Function and class
+def, def
+class, klassur
+self, sjølv
+pass, dritidet
+return, gitelbake
+global, EU
+
+# Types
+str, tekst
+int, helvtal
+list, liste
+bool, nja
+None, ikkenoko
+
+# Annet
+print, skrivut
+range, massetall
+assert, påstå
+as, som
+break, knekk
+
+# Built-ins
+all, alle
+any, nokon
+try, prøv
+except, omikkje
+finally, tilslut
+with, med
+yield, gitelgangtil
+raise, roput
+import, importer
+async, asynk
+await, ventnolitt
+from, frå
+del, slett
+lambda, egveitfaenikkje
+nonlocal, ikkelokal

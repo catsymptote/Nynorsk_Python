@@ -1,0 +1,6 @@
+x = 4
+
+hvis x > 5:
+    skrivut("x er større enn 5")
+ellers:
+    skrivut("x er IKKE større enn 5")

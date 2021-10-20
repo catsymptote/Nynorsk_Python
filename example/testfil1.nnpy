@@ -1,0 +1,2 @@
+forkvar idx inni massetall(10):
+    skrivut(idx)
